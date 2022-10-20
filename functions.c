@@ -234,3 +234,4 @@ int print_binary(va_list types, char buffer[], int flags, int width, int precisi
 	}
 	return (count);
 }
+
